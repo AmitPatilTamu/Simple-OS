@@ -1,0 +1,9 @@
+contents of different folders-
+implementation details in design.pdf inside every folder
+
+mp2: continuous framepool manager
+mp3: paging manager
+mp4: virtual memory manager
+mp5: round robin thread scheduler
+mp6: basic device driver for disk
+mp7: simple file system
